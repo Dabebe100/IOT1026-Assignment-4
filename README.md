@@ -13,7 +13,7 @@
 
 # IOT1026-Assignment-4
 
-This program is a simple console application that allows users to input a sequence of commands, which include turning the robot on or off and moving it in different directions( south, west, east,north). After receiving the commands, the program executes them one by one, displaying the robot's current position(coordinates) and power status. At the end of the program, it provides a history of the robot's movement, listing the coorinates it visited during the execution of the commands.
+This program is a simple console application that allows users to enter a sequence of commands, which include turning the robot on or off and moving it in different ways( south, west, east,north). After it receives instructions, the program executes them one by one, displaying the robot's current position(coordinates) and power status. At the end of the program, it provides a history of the robot's movement, listing the coorinates it visited during the execution of the commands.
 
 [Assignment Instructions](docs/instructions.md)  
 [How to start coding](docs/how-to-use.md)  
