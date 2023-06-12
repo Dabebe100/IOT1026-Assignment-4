@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Assignment
 {
@@ -11,3 +11,4 @@ namespace Assignment
         }
     }
 }
+
