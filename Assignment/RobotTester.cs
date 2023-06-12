@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Assignment;
 using Assignment.InterfaceCommand;
 
@@ -71,3 +71,4 @@ namespace RobotTester
         }
     }
 }
+
